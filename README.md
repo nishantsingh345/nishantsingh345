@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantsingh345&label=Profile%20views&color=0e75b6&style=flat" alt="nishantsingh345" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/nishantsingh](https://twitter.com/Nishant06941352)" target="blank"><img src="https://img.shields.io/twitter/follow/nishantsingh?logo=twitter&style=for-the-badge" alt="nishantsingh" /></a> </p>
+<p align="left"> <a href="[[https://twitter.com/nishantsingh](https://twitter.com/Nishant06941352)](https://twitter.com/Nishant06941352)" target="blank"><img src="https://img.shields.io/twitter/follow/nishantsingh?logo=twitter&style=for-the-badge" alt="nishantsingh" /></a> </p>
 
 - 🔭 I’m currently working on **react Based projects**
 
